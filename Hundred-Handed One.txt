@@ -1,0 +1,9 @@
+Card name: Hundred-Handed One   {2}{W}{W}
+Card color: ['W']
+Card Type: Creature — Giant
+Description text: Vigilance
+{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.
+Card flavor text: 
+Power/Toughness: 3/5
+Card Link: https://scryfall.com/card/cn2/93/hundred-handed-one?utm_source=api
