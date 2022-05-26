@@ -2,7 +2,7 @@ import pytesseract
 import cv2 as cv
 import scrython
 import re
-img = cv.imread('img3.jpg',0)
+img = cv.imread('img15.jpg',0)
 '''scan = cv.medianBlur(img,5)'''
 """
 adaptive gaussian treshold

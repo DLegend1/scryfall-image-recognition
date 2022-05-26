@@ -1,3 +1,5 @@
 .idea
 .vs
-Output
+__pycache__
+Cards
+IMGS TEST

@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+scrython
+tesseract
+tesseract-ocr
+glob2
